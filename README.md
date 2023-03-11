@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @richiezizm
+- # To improve is to change.
 - I’m interested in Video Games - RPG's and FPS's in particular! (FF and Overwatch are high on my list)
 - I’m currently learning Java and all of its glory
 - I’m looking to collaborate on Java projects, of course mostly beginner projects at the moment
